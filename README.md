@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christian-j-mauro
 - 👀 I’m interested in learning as much as I can
-- 🌱 I’m currently learning node.js, CRUD, RESTful API, and Django
+- 🌱 I’m currently learning node.js, CRUD, RESTful API, and Express.js
 - 💞️ I’m looking for work
 - 📫 How to reach me christian.j.mauro@gmail.com
 
